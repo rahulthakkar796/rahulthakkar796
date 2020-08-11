@@ -3,16 +3,16 @@
 ## I'm a Developer and a good Friend!
 - 🔭 Full-stack dApp developer at  <img src="https://kyc-crypto.com/wp-content/uploads/2020/06/kyc_crypto.ico" height="15px" style="position:relative;top:3px;">  <a target="_blank" href="https://kyc-crypto.com">KYC.Crypto</a>
 - 🌱 I’m currently learning everything 🧙‍♂️
-- 😋 Hobbies: Travelling, Playing Cricket and Programming .
+- 😋 Hobbies: Travelling, Cricket and Programming .
 ### Connect with me:
 
 
 
-<img align="left" alt="devkasun | Twitter" style="margin-right:10px" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />[twitter](https://twitter.com/rahulthakkar796)
+<img align="left" alt="rahulthakkar796 | Twitter" style="margin-right:10px" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />[twitter](https://twitter.com/rahulthakkar796)
 
-<img align="left"  style="margin-right:10px" alt="devkasun | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />[linkedin](https://www.linkedin.com/in/rahul-buddhdev-96895a128)
+<img align="left"  style="margin-right:10px" alt="rahul-buddhdev-96895a128 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />[linkedin](https://www.linkedin.com/in/rahul-buddhdev-96895a128)
 
-<img align="left"  style="margin-right:10px" alt="devkasun | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />[instagram](https://www.instagram.com/rahulthakkar.js)
+<img align="left"  style="margin-right:10px" alt="rahulthakkar.js | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />[instagram](https://www.instagram.com/rahulthakkar.js)
 
 <br />
 
