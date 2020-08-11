@@ -1,16 +1,51 @@
-### Hi there 👋
+### Hi there, I'm Rahul 👋
 
-<!--
-**rahulthakkar796/rahulthakkar796** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm a Developer and a good Friend!
+- 🔭 Full-stack dApp developer at  <img src="https://kyc-crypto.com/wp-content/uploads/2020/06/kyc_crypto.ico" height="15px" style="position:relative;top:3px;">  [KYC.Crypto](https://kyc-crypto.com) 
+- 🌱 I’m currently learning everything 🧙‍♂️
+- 😋 Hobbies: Travelling, Playing Cricket and Programming .
+### Connect with me:
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<img align="left" alt="devkasun | Twitter" style="margin-right:10px" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />[twitter](https://twitter.com/rahulthakkar796)
+
+<img align="left"  style="margin-right:10px" alt="devkasun | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />[linkedin](https://www.linkedin.com/in/rahul-buddhdev-96895a128)
+
+<img align="left"  style="margin-right:10px" alt="devkasun | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />[instagram](https://www.instagram.com/rahulthakkar.js)
+
+<br />
+
+### Languages and Tools:
+
+
+
+<img align="left" height="30" alt="JavaScript" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /> 
+
+<img align="left" height="30px" alt="Vue" width="32px" src="https://vuejs.org/images/logo.png" style="margin-left:20px" />
+
+<img align="left" alt="Vuetify" height="28px" width="32px" src="https://cdn.vuetifyjs.com/images/logos/vuetify-logo-dark.png" style="margin-left:20px" />
+
+<img align="left" height="30" alt="React" width="32px" style="margin-left:20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+
+<img align="left" style="margin-left:20px" alt="MongoDB" height=30 src="https://webassets.mongodb.com/_com_assets/cms/MongoDB_Logo_FullColorBlack_RGB-4td3yuxzjs.png" />
+
+<img align="left" style="margin-left:20px" alt="Node" height=35 src="https://png2.cleanpng.com/sh/27926ffc2ba98fede79ca395c1da1537/L0KzQYm3VME3N51uiZH0aYP2gLBuTf5wbJYyguU2anH5ccTqkvlxfF54feRBZYKwg7rrhb10a6NuiOZybnewgsbpmb02aZU5fdYDNXLnRoTtUb40PGQ5TaI9MkG4QoSCUMM5P2g8T6cDLoDxd1==/kisspng-node-js-javascript-server-side-scripting-ruby-5ad4ed85bd63f1.3434504215239038777758.png" />
+<br>
+<br>
+<br>
+<img align="left" alt="HTML5" height="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" /> 
+
+<img align="left" height="30"  alt="Express" style="margin-left:20px" src="https://www.sohamkamani.com/static/65137ed3c844d05124dcfdab28263c21/6b427/express-routing-logo.png" />
+<img align="left" alt="Solidity" height="35px" src="https://solidity.readthedocs.io/en/v0.7.0/_images/logo.svg" style="margin-left:20px;position:relative;bottom:10px" />
+
+<img align="left" alt="Ethereum" height="35px"  src="https://cdn.freebiesupply.com/logos/large/2x/ethereum-logo-png-transparent.png" style="margin-left:20px" />
+<img height="35" style="margin-left:20px" src="https://img.pngio.com/tron-decentralize-the-web-tron-png-3000_1132.png" alt="TRON | Decentralize The Web"/>
+
+
+<br />
+<br />
+
+### ⚡ Fun facts:
+
+"Think Outside the BOX!"
