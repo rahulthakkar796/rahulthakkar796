@@ -34,7 +34,7 @@
 <br>
 <br>
 <br>
-<img align="left" alt="HTML5" height="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" /> 
+<img align="left" alt="HTML5" style="position:relative;top:10" height="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" /> 
 
 
 <img align="left" alt="Solidity" height="35px" src="https://solidity.readthedocs.io/en/v0.7.0/_images/logo.svg" style="margin-left:20px;position:relative;bottom:10px" />
