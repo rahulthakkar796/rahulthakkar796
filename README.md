@@ -37,7 +37,7 @@
 <img align="left" alt="HTML5" style="position:relative;top:10" height="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" /> 
 
 
-<img align="left" alt="Solidity" height="35px" src="https://solidity.readthedocs.io/en/v0.7.0/_images/logo.svg" style="margin-left:20px;position:relative;bottom:10px" />
+<img align="left" alt="Solidity" height="40px" src="https://miro.medium.com/max/1500/1*USQMP1HCMH3BW5KQ5DuOkQ.png" style="margin-left:20px;position:relative;bottom:10px" />
 
 <img align="left" alt="Ethereum" height="35px"  src="https://ethereum.org/static/8ea7775026f258b32e5027fe2408c49f/294fc/ethereum-logo-landscape-black.png" style="margin-left:20px" />
 <img height="35" style="margin-left:20px" src="https://img.pngio.com/tron-decentralize-the-web-tron-png-3000_1132.png" alt="TRON | Decentralize The Web"/>
