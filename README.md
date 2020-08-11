@@ -39,7 +39,7 @@
 <img align="left" height="30"  alt="Express" style="margin-left:20px" src="https://www.sohamkamani.com/static/65137ed3c844d05124dcfdab28263c21/6b427/express-routing-logo.png" />
 <img align="left" alt="Solidity" height="35px" src="https://solidity.readthedocs.io/en/v0.7.0/_images/logo.svg" style="margin-left:20px;position:relative;bottom:10px" />
 
-<img align="left" alt="Ethereum" height="35px"  src="https://cdn.freebiesupply.com/logos/large/2x/ethereum-logo-png-transparent.png" style="margin-left:20px" />
+<img align="left" alt="Ethereum" height="35px"  src="https://ethereum.org/static/8ea7775026f258b32e5027fe2408c49f/294fc/ethereum-logo-landscape-black.png" style="margin-left:20px" />
 <img height="35" style="margin-left:20px" src="https://img.pngio.com/tron-decentralize-the-web-tron-png-3000_1132.png" alt="TRON | Decentralize The Web"/>
 
 
