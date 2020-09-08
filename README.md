@@ -29,7 +29,7 @@
 
 <img align="left" style="margin-left:20px" alt="MongoDB" height=30 src="https://webassets.mongodb.com/_com_assets/cms/MongoDB_Logo_FullColorBlack_RGB-4td3yuxzjs.png" />
 
-<img align="left" style="margin-left:20px" alt="Node" height=35 src="https://png2.cleanpng.com/sh/27926ffc2ba98fede79ca395c1da1537/L0KzQYm3VME3N51uiZH0aYP2gLBuTf5wbJYyguU2anH5ccTqkvlxfF54feRBZYKwg7rrhb10a6NuiOZybnewgsbpmb02aZU5fdYDNXLnRoTtUb40PGQ5TaI9MkG4QoSCUMM5P2g8T6cDLoDxd1==/kisspng-node-js-javascript-server-side-scripting-ruby-5ad4ed85bd63f1.3434504215239038777758.png" />
+<img align="left" style="margin-left:20px" alt="Node" height=35 src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" />
 
 <img align="left" height="30"  alt="Express" style="margin-left:20px" src="https://www.sohamkamani.com/static/65137ed3c844d05124dcfdab28263c21/6b427/express-routing-logo.png" />
 
