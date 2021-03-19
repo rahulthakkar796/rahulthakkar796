@@ -31,7 +31,7 @@
 
 <img align="left" style="margin-left:20px" alt="Node" height=35 src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" />
 
-<img align="left" height="30"  alt="Express" style="margin-left:20px" src="https://www.sohamkamani.com/static/65137ed3c844d05124dcfdab28263c21/6b427/express-routing-logo.png" />
+<img align="left" height="30"  alt="Express" style="margin-left:20px" src="https://www.sohamkamani.com/static/65137ed3c844d05124dcfdab28263c21/express-routing-logo.png" />
 
 
 <br>
