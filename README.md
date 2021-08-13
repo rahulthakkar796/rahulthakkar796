@@ -1,7 +1,7 @@
 ### Hi there, I'm Rahul 👋
 
 ## I'm a Developer and a good Friend!
-- 🔭 Full-stack dApp developer at  <img src="https://kyc-crypto.com/wp-content/uploads/2020/06/kyc_crypto.ico" height="15px" style="position:relative;top:3px;">  <a target="_blank" href="https://kyc-crypto.com">KYC.Crypto</a> and <img src="https://justliquidity.org/images/logo.png" height="15px" style="position:relative;top:3px;"> <a href="https://justliquidity.org/" target="_blank">Justliquidity </a>
+- 🔭 Full-stack dApp developer at <img src="https://justliquidity.org/images/logo.png" height="15px" style="position:relative;top:3px;"> <a href="https://justliquidity.org/" target="_blank">Justliquidity </a>
 - 🌱 I’m currently learning everything 🧙‍♂️
 - 😋 Hobbies: Travelling, Cricket and Programming .
 <!-- ### Connect with me:
