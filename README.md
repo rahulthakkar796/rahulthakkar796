@@ -43,5 +43,6 @@
 <img align="left" alt="ipfs" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/1/18/Ipfs-logo-1024-ice-text.png" style="margin-left:20px;position:relative;bottom:10px" />
 <img align="left" alt="Ethereum" height="35px"  src="https://cdn.freebiesupply.com/logos/large/2x/ethereum-logo-png-transparent.png" style="margin-left:20px" />
 <img height="35" style="margin-left:20px" src="https://img.pngio.com/tron-decentralize-the-web-tron-png-3000_1132.png" alt="TRON | Decentralize The Web"/>
+<img height="35" style="margin-left:20px" src="https://hardhat.org/_next/static/media/hardhat-logo.5c5f687b.svg" alt="Hardhat"/>
 <br />
 <br />
