@@ -2,7 +2,6 @@
 
 ## I'm a Developer and a good Friend!
 - 🔭 Full-stack dApp developer
-- 🌱 I’m currently learning everything 🧙‍♂️
 - 😋 Hobbies: Travelling, Cricket and Programming .
 <!-- ### Connect with me:
 
@@ -46,7 +45,3 @@
 <img height="35" style="margin-left:20px" src="https://img.pngio.com/tron-decentralize-the-web-tron-png-3000_1132.png" alt="TRON | Decentralize The Web"/>
 <br />
 <br />
-
-### ⚡ Fun facts:
-
-"Think Outside the BOX!"
